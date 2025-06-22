@@ -2,6 +2,10 @@
 
 Dự án này bao gồm các script Python để tiền xử lý dữ liệu và dự báo số ca bệnh Tiêu chảy và Sốt xuất huyết Dengue tại 24 quận/huyện của TP.HCM, sử dụng mô hình XGBoost và tích hợp với WebGIS. Dưới đây là hướng dẫn chi tiết để cài đặt và sử dụng các file code.
 
+Nội dung 7.22: Phát triển module tự động hóa quy trình các mô hình dự báo sớm BTN liên quan đến các yếu tố BĐKH theo phân vùng ở quy mô cộng đồng	
+
+Yêu cầu: Module tự động hóa quy trình dự báo BTN dựa trên mô hình AI
+
 ## Nội dung dự án
 
 - `preprocessing_data.py`: Tiền xử lý dữ liệu từ file Excel, tạo hai file CSV: `Filtered_Disease_Data.csv` (chưa gộp cột) và `Filtered_Disease_Data_Merged.csv` (đã gộp cột `Q2`, `Q9`, `TD` thành `TP_TD`).
