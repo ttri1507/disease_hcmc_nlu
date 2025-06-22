@@ -93,5 +93,4 @@ Dự án này bao gồm các script Python để tiền xử lý dữ liệu và
 - Nếu gặp lỗi, kiểm tra đường dẫn file hoặc cài đặt lại các thư viện theo `requirements.txt`.
 - Dữ liệu đầu ra có thể được tải xuống từ Google Colab bằng cách nhấp chuột phải vào thư mục kết quả và chọn "Download".
 
-## Giấy phép
-Dự án này được phát hành dưới dạng mã nguồn mở, vui lòng trích dẫn nếu sử dụng.
+
